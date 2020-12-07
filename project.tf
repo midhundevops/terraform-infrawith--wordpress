@@ -10,7 +10,7 @@ provider "aws"  {
 
 variable "db_name" {
  
-  default = "wordpress2"
+  default = "wordpress1"
     
 }
 
